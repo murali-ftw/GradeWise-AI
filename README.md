@@ -140,11 +140,11 @@ Carefully designed prompts guide the model to produce structured reports.
 
 ## 👥 Team Contribution
 
-* Member 1: Problem Definition & Research
-* Member 2: NLP Concepts & Theory
-* Member 3: System Design & Architecture
-* Member 4: Implementation & Coding
-* Member 5: Testing, Output Analysis & Presentation
+* 23N205 - Abishiek C: Problem Definition & Research
+* 23N236 - Pranika S: NLP Concepts & Theory
+* 23N248 - Sanjeev MS: System Design & Architecture
+* 23N230 - Muralikarthik : Implementation & Coding
+* 24N434 - Priyanka S: Testing, Output Analysis & Presentation
 
 ---
 
